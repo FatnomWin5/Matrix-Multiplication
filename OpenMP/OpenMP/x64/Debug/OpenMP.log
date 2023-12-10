@@ -1,0 +1,3 @@
+﻿  OpenMP.cpp
+C:\Users\danya\Matrix Multiplication\OpenMP\OpenMP\OpenMP.cpp(17,5): warning C4101: i: неиспользованная локальная переменная
+  OpenMP.vcxproj -> C:\Users\danya\Matrix Multiplication\OpenMP\x64\Debug\OpenMP.exe
